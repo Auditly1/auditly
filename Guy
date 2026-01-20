@@ -1,2 +1,2 @@
-git remote add origin https://github.com/YOUR_USERNAME/auditly.git
+git remote add origin https://github.com/auditly1/auditly.git
 git push -u origin main
